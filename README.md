@@ -31,8 +31,8 @@
 
 <p align="center">
 <a href="https://github.com/VincentGaoHJ">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crazyqiqi0639&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crazyqiqi0639&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=qizhiliu0639&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qizhiliu0639&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
